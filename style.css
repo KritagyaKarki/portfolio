@@ -119,13 +119,14 @@ span{ color: green; }
   padding:1rem;
   border:3px solid #c24d2c;
   border-radius: 12px;
+  padding: 2rem;
   text-align: center;
   cursor: pointer;
 }
 
 .items h3 { color:#79c2d0; font-size: 1.4rem; }
 .items p { font-size: 1rem; line-height: 1.5; }
-.items .project-img{ width: 100%; border-radius: 8px; }
+/*.items .project-img{ width: 100%; border-radius: 8px; }*/
 
 .items:hover{
   transform: translateY(-5px);
